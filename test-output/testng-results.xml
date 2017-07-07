@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15960" started-at="2017-07-07T07:52:37Z" finished-at="2017-07-07T07:52:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15960" started-at="2017-07-07T07:52:37Z" finished-at="2017-07-07T07:52:53Z">
+      <class name="com.galenframework.java.sample.tests.HomePageTest">
+        <test-method status="PASS" signature="initDriver([Ljava.lang.Object;)[pri:0, instance:com.galenframework.java.sample.tests.HomePageTest@2d928643]" name="initDriver" is-config="true" duration-ms="7143" started-at="2017-07-07T09:52:37Z" finished-at="2017-07-07T09:52:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4ebea12c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="initReport(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.galenframework.java.sample.tests.HomePageTest@2d928643]" name="initReport" is-config="true" duration-ms="6" started-at="2017-07-07T09:52:44Z" finished-at="2017-07-07T09:52:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.galenframework.java.sample.tests.HomePageTest.welcomePage_shouldLookGood_onDevice(com.galenframework.java.sample.components.GalenTestBase$TestDevice) throws java.io.IOException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4ebea12c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initReport -->
+        <test-method status="PASS" signature="welcomePage_shouldLookGood_onDevice(com.galenframework.java.sample.components.GalenTestBase$TestDevice)[pri:0, instance:com.galenframework.java.sample.tests.HomePageTest@2d928643]" name="welcomePage_shouldLookGood_onDevice" duration-ms="5104" started-at="2017-07-07T09:52:44Z" data-provider="devices" finished-at="2017-07-07T09:52:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[desktop 1280x800]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- welcomePage_shouldLookGood_onDevice -->
+        <test-method status="PASS" signature="provideTestEndDate()[pri:0, instance:com.galenframework.java.sample.tests.HomePageTest@2d928643]" name="provideTestEndDate" is-config="true" duration-ms="0" started-at="2017-07-07T09:52:49Z" finished-at="2017-07-07T09:52:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- provideTestEndDate -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.galenframework.java.sample.tests.HomePageTest@2d928643]" name="quitDriver" is-config="true" duration-ms="3668" started-at="2017-07-07T09:52:49Z" finished-at="2017-07-07T09:52:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.galenframework.java.sample.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

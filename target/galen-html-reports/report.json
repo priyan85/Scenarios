@@ -1,0 +1,17 @@
+{
+  "tests" : [ {
+    "name" : "HomePageTest#welcomePage_shouldLookGood_onDevice (desktop 1280x800)",
+    "startedAt" : 1499413964366,
+    "endedAt" : 1499413969473,
+    "failed" : false,
+    "statistic" : {
+      "passed" : 16,
+      "errors" : 0,
+      "warnings" : 0,
+      "total" : 16
+    },
+    "testId" : "1-homepagetest-welcomepage-shouldlookgood-ondevice-desktop-1280x800-",
+    "failed" : false,
+    "duration" : 5107
+  } ]
+}
